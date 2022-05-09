@@ -1,0 +1,11 @@
+framework module SoundCloudRequestBuilder {
+  umbrella header "SoundCloudRequestBuilder.h"
+
+  export *
+  module * { export * }
+}
+
+module SoundCloudRequestBuilder.Swift {
+    header "SoundCloudRequestBuilder-Swift.h"
+    requires objc
+}
