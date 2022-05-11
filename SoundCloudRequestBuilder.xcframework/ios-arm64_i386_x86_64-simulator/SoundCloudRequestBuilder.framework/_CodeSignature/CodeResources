@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		AGgkvKJ5GMccPrJJ+wXPr7GyPJ8=
+		JHn0vy9iWS7AimBRGqxmMVn9f/Y=
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0MKYpHUhGOJnzNEFo3QpoXVk4ZQ=
+		dHifoqG2NGzAQ/h1k16MyfLZ2nI=
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		2I6v3fF7W42j8SqLM0DfBUfmffM=
+		fIeUQ4rmYqilXGfZkg2yGsh5P9k=
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		h+dIDBawKjve4sRvVwvUaev/Oe0=
+		MTF1VKa2LEzP0br1qowtHwrOWQE=
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GoETUuHSP/WAS64cLL6As7w+IAc=
+		VVYQrjuJwQvgH4ZyL6m+yI4KL+I=
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e37AmEsBP6OpqvsOMC69W6N0s9Y=
+		2TQPSYA6s1NZPjkWpr6RWWf78ds=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,33 +85,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AGgkvKJ5GMccPrJJ+wXPr7GyPJ8=
+			JHn0vy9iWS7AimBRGqxmMVn9f/Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			/SE6aAzvG8T2V7QfHWvwVMTzrTBJYD4g+nYSa0jj684=
+			9ZGYf2Q4rQlA0qHwX9UKLY9hQNCpFg6Ga+5rRUHsPDQ=
 			</data>
 		</dict>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0MKYpHUhGOJnzNEFo3QpoXVk4ZQ=
+			dHifoqG2NGzAQ/h1k16MyfLZ2nI=
 			</data>
 			<key>hash2</key>
 			<data>
-			sX20IJWHrVo0d5zx98ztt/yUbVYW5sSVbquO1YhAdfc=
+			YoMc10zkq1OSMslbhV5vCWBM2fMDOCi32JX56Srx9Zs=
 			</data>
 		</dict>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2I6v3fF7W42j8SqLM0DfBUfmffM=
+			fIeUQ4rmYqilXGfZkg2yGsh5P9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y6Q0SGCY721TFhBmvK6Oi1euqtmHNdwx5NE3PsvnoJM=
+			se3V4B8aZZmxN9eFZKTmaUfGL2kXhqcQ4kxKW7P0W1E=
 			</data>
 		</dict>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h+dIDBawKjve4sRvVwvUaev/Oe0=
+			MTF1VKa2LEzP0br1qowtHwrOWQE=
 			</data>
 			<key>hash2</key>
 			<data>
-			u1nmsv7fTMJUKt96ZHeYwP5RJuqXqxGXzgz7IwLhgzU=
+			UPEu/e550UiMEXqXv6ndPRyA+f6/dzM1kW+TmUvaBhI=
 			</data>
 		</dict>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GoETUuHSP/WAS64cLL6As7w+IAc=
+			VVYQrjuJwQvgH4ZyL6m+yI4KL+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			329vbxMx/jax9kWAWd+BKfNu7T755NK8z1x62KdZdnA=
+			MFsMp61GYgsQf3V+OxNP2WBd19F2EwMhGtU5WxsTtXk=
 			</data>
 		</dict>
 		<key>Modules/SoundCloudRequestBuilder.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e37AmEsBP6OpqvsOMC69W6N0s9Y=
+			2TQPSYA6s1NZPjkWpr6RWWf78ds=
 			</data>
 			<key>hash2</key>
 			<data>
-			AUWbJMzUSaVnY9PZO0w9cWnrI6Felpm7mzIyIdLf/6A=
+			f2K8bNC7CAa2KTf2z4+8KZp+GELkd4xKpCcT5Xoror0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
